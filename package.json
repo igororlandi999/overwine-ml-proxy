@@ -1,0 +1,10 @@
+{
+  "name": "overwine-ml-proxy",
+  "version": "1.0.0",
+  "description": "Proxy CORS para Mercado Livre API",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
